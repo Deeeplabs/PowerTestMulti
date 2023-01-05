@@ -50,3 +50,9 @@ Screen1 As screen:
         Y: =218
         ZIndex: =7
 
+    Label6 As label:
+        Text: ="are are are are"
+        X: =747
+        Y: =519
+        ZIndex: =8
+
