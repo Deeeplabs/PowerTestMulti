@@ -20,9 +20,10 @@ Screen1 As screen:
         ZIndex: =3
 
     Label2 As label:
-        Text: |-
-            ="Hallo aku disini :)"
-        X: =541
-        Y: =206
+        Height: =48
+        Text: ="mas machfudh disini dan bersama saya"
+        Width: =401
+        X: =666
+        Y: =15
         ZIndex: =4
 
