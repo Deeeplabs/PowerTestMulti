@@ -1,4 +1,4 @@
 App As appinfo:
     BackEnabled: =false
-    OnStart: =Set(varIncrementNumber, "")
+    OnStart: =Set(varIncrementNumber, 1)
 

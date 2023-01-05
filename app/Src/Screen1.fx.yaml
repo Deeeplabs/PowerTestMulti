@@ -7,7 +7,7 @@ Screen1 As screen:
         ZIndex: =1
 
     Button1 As button:
-        OnSelect: =Set(varIncrementNumber, "test")
+        OnSelect: =Set(varIncrementNumber, Sum(varIncrementNumber,1)) 
         Text: ="Add Number"
         X: =153
         Y: =246
