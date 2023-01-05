@@ -46,8 +46,8 @@ Screen1 As screen:
         Height: =70
         Text: ="Tambahan text 2 dengan timeline yang tight"
         Width: =330
-        X: =529
-        Y: =218
+        X: =581
+        Y: =216
         ZIndex: =7
 
     Label6 As label:
@@ -56,9 +56,20 @@ Screen1 As screen:
         Y: =390
         ZIndex: =8
 
+    Dropdown1 As dropdown:
+        Items: =["machfudh", "update", "rmbex", "danny"]
+        X: =110
+        Y: =348
+        ZIndex: =8
+
     TextInput1 As text:
         Default: ="Masukan teks"
         X: =199
         Y: =603
+        ZIndex: =9
+
+    Rectangle1 As rectangle:
+        X: =101
+        Y: =419
         ZIndex: =9
 
