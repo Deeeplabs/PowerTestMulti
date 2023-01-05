@@ -52,7 +52,7 @@ Screen1 As screen:
 
     Dropdown1 As dropdown:
         Items: =["machfudh", "update", "rmbex", "danny"]
-        X: =114
+        X: =110
         Y: =348
         ZIndex: =8
 
@@ -61,4 +61,9 @@ Screen1 As screen:
         X: =747
         Y: =519
         ZIndex: =8
+
+    Rectangle1 As rectangle:
+        X: =101
+        Y: =419
+        ZIndex: =9
 
