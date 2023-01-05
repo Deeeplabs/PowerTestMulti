@@ -14,11 +14,12 @@
     "Label4_1": 7,
     "Label6": 15,
     "Screen1": 3,
-    "Screen1_1": 11
+    "Screen1_1": 11,
+    "TextInput1": 16
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "01/05/2023 04:30:20",
+  "HeaderLastSavedDateTimeUTC": "01/05/2023 04:31:07",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -31,8 +32,9 @@
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
-    "button": 1,
-    "label": 0
+    "button": 2,
+    "label": 0,
+    "text": 1
   },
   "OverridablePropertiesEntry": {
     "App": {},
@@ -47,7 +49,8 @@
     "Label4_1": {},
     "Label6": {},
     "Screen1": {},
-    "Screen1_1": {}
+    "Screen1_1": {},
+    "TextInput1": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PublishOrderIndices": {
@@ -63,7 +66,8 @@
     "Label4_1": 6,
     "Label6": 0,
     "Screen1": 2,
-    "Screen1_1": 10
+    "Screen1_1": 10,
+    "TextInput1": 0
   },
   "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},

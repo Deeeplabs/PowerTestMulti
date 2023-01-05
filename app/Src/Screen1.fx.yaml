@@ -52,7 +52,13 @@ Screen1 As screen:
 
     Label6 As label:
         Text: ="are are are are"
-        X: =747
-        Y: =519
+        X: =879
+        Y: =390
         ZIndex: =8
+
+    TextInput1 As text:
+        Default: ="Masukan teks"
+        X: =199
+        Y: =603
+        ZIndex: =9
 
