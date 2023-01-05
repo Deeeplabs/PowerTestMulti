@@ -27,3 +27,10 @@ Screen1 As screen:
         Y: =15
         ZIndex: =4
 
+    Button2 As button:
+        Height: =60
+        Text: ="button here"
+        X: =651
+        Y: =108
+        ZIndex: =5
+
