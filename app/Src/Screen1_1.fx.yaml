@@ -6,3 +6,9 @@ Screen1_1 As screen:
         Y: =40
         ZIndex: =1
 
+    Label3 As label:
+        Text: ="Hi Danny ...."
+        X: =579
+        Y: =360
+        ZIndex: =2
+
