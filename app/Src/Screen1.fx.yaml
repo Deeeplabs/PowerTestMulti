@@ -46,7 +46,13 @@ Screen1 As screen:
         Height: =70
         Text: ="Tambahan text 2 dengan timeline yang tight"
         Width: =330
-        X: =529
-        Y: =218
+        X: =581
+        Y: =216
         ZIndex: =7
+
+    Dropdown1 As dropdown:
+        Items: =["machfudh", "update", "rmbex", "danny"]
+        X: =114
+        Y: =348
+        ZIndex: =8
 
