@@ -1,0 +1,8 @@
+Screen1_1 As screen:
+
+    Label1_1 As label:
+        Text: ="Power test 2"
+        X: =40
+        Y: =40
+        ZIndex: =1
+
