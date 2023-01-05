@@ -56,3 +56,9 @@ Screen1 As screen:
         Y: =348
         ZIndex: =8
 
+    Label6 As label:
+        Text: ="are are are are"
+        X: =747
+        Y: =519
+        ZIndex: =8
+
