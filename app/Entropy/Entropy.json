@@ -1,9 +1,25 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Button1": 12,
+    "Button2": 5,
+    "Dropdown1": 7,
+    "Label1": 4,
+    "Label1_1": 14,
+    "Label1_2": 9,
+    "Label2": 11,
+    "Label3": 15,
+    "Label4": 6,
+    "Label4_1": 10,
+    "Label6": 8,
+    "Screen1": 3,
+    "Screen1_1": 13
+  },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "01/05/2023 04:30:49",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -11,15 +27,63 @@
   "LocalResourceRootPaths": {},
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
-  "OrderDataSource": {},
+  "OrderDataSource": {
+    "DropDownSample": 0
+  },
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {},
-  "OverridablePropertiesEntry": {},
+  "OrderXMLTemplate": {
+    "button": 1,
+    "dropdown": 2,
+    "label": 0
+  },
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "Button1": {},
+    "Button2": {},
+    "Dropdown1": {},
+    "Label1": {},
+    "Label1_1": {},
+    "Label1_2": {},
+    "Label2": {},
+    "Label3": {},
+    "Label4": {},
+    "Label4_1": {},
+    "Label6": {},
+    "Screen1": {},
+    "Screen1_1": {}
+  },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
-  "PublishOrderIndices": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "Button1": 11,
+    "Button2": 4,
+    "Dropdown1": 6,
+    "Label1": 3,
+    "Label1_1": 13,
+    "Label1_2": 8,
+    "Label2": 10,
+    "Label3": 14,
+    "Label4": 5,
+    "Label4_1": 9,
+    "Label6": 7,
+    "Screen1": 2,
+    "Screen1_1": 12
+  },
   "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {}
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0878269,
+    "ControlCount": {
+      "button": 2,
+      "dropdown": 1,
+      "label": 8,
+      "screen": 2
+    },
+    "DeserializationLoadTime": 0.3968571,
+    "ErrorCount": 0
+  },
+  "WasLocalDatabaseReferencesEmpty": true
 }
