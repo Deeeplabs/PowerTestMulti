@@ -30,7 +30,23 @@ Screen1 As screen:
     Button2 As button:
         Height: =60
         Text: ="button here"
-        X: =651
-        Y: =108
+        X: =666
+        Y: =70
         ZIndex: =5
+
+    Label4 As label:
+        Height: =70
+        Text: ="Tambahan text dengan timeline yang tight"
+        Width: =330
+        X: =581
+        Y: =148
+        ZIndex: =6
+
+    Label4_1 As label:
+        Height: =70
+        Text: ="Tambahan text 2 dengan timeline yang tight"
+        Width: =330
+        X: =529
+        Y: =218
+        ZIndex: =7
 
