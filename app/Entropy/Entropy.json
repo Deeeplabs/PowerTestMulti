@@ -7,12 +7,13 @@
     "Label1": 4,
     "Label1_1": 6,
     "Label1_2": 8,
+    "Label2": 9,
     "Screen1": 3,
     "Screen1_1": 5
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "01/05/2023 04:18:10",
+  "HeaderLastSavedDateTimeUTC": "01/05/2023 04:26:39",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -34,6 +35,7 @@
     "Label1": {},
     "Label1_1": {},
     "Label1_2": {},
+    "Label2": {},
     "Screen1": {},
     "Screen1_1": {}
   },
@@ -44,6 +46,7 @@
     "Label1": 0,
     "Label1_1": 3,
     "Label1_2": 1,
+    "Label2": 0,
     "Screen1": 0,
     "Screen1_1": 0
   },
