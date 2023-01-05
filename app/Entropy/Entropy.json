@@ -3,14 +3,16 @@
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
     "App": 1,
+    "Button1": 7,
     "Label1": 4,
     "Label1_1": 6,
+    "Label1_2": 8,
     "Screen1": 3,
     "Screen1_1": 5
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "01/05/2023 04:13:23",
+  "HeaderLastSavedDateTimeUTC": "01/05/2023 04:16:32",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -23,20 +25,25 @@
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
+    "button": 1,
     "label": 0
   },
   "OverridablePropertiesEntry": {
     "App": {},
+    "Button1": {},
     "Label1": {},
     "Label1_1": {},
+    "Label1_2": {},
     "Screen1": {},
     "Screen1_1": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PublishOrderIndices": {
     "App": 0,
+    "Button1": 2,
     "Label1": 0,
-    "Label1_1": 1,
+    "Label1_1": 3,
+    "Label1_2": 1,
     "Screen1": 0,
     "Screen1_1": 0
   },
@@ -46,7 +53,7 @@
   "VolatileProperties": {
     "AnalysisLoadTime": 0.079634,
     "ControlCount": {
-      "label": 2,
+      "label": 3,
       "screen": 2
     },
     "DeserializationLoadTime": 0.3327729,

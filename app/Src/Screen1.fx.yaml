@@ -6,3 +6,16 @@ Screen1 As screen:
         Y: =40
         ZIndex: =1
 
+    Button1 As button:
+        OnSelect: =Set(varIncrementNumber, "test")
+        Text: ="Add Number"
+        X: =153
+        Y: =246
+        ZIndex: =2
+
+    Label1_2 As label:
+        Text: ="angka disini " & varIncrementNumber
+        X: =251
+        Y: =80
+        ZIndex: =3
+
